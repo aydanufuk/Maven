@@ -1,0 +1,5 @@
+com\aydan\product\dao\ProductDAO.class
+com\aydan\product\bo\ProductBO.class
+com\aydan\product\dao\ProductDAOImpl.class
+com\aydan\product\dto\Product.class
+com\aydan\product\bo\ProductBOImpl.class
